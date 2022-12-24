@@ -118,6 +118,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
+  background: #905EAD;
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
@@ -908,7 +909,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("../img/02.mp4") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
